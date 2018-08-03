@@ -1,4 +1,4 @@
-C:\Users\verilogsample>iverilog rtl/* -o sample.vvp# iverilog_sample
+# iverilog_sample
 
 1. Download iverilog exe file:
    http://bleyer.org/icarus/
