@@ -1,12 +1,12 @@
-># iverilog_sample
+# iverilog_sample
 
 1. Download iverilog exe file:
 http://bleyer.org/icarus/
    
 2. Install
 
->3. File -> This PC -> Right Click (for Windows user)
->Properties
+3. File -> This PC -> Right Click (for Windows user)
+...Properties
 Advanced system seetings
 Environment Variable
 System variable -> path -> Edit
