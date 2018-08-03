@@ -1,11 +1,11 @@
 # iverilog_sample
 
-## 2.Download iverilog exe file:
-### http://bleyer.org/icarus/
+1. Download iverilog exe file:
+http://bleyer.org/icarus/
    
 2. Install
 
-3.File -> This PC -> Right Click (for Windows user)
+3. File -> This PC -> Right Click (for Windows user)
   Properties
   Advanced system seetings
   Environment Variable
@@ -14,7 +14,7 @@
   New -> C:\iverilog\gtkwave\bin
   OK
 
-4.cmd window (for Windows user)
+4. cmd window (for Windows user)
   C:\Users\verilogsample>iverilog add.v test_bench.v -o sample.vvp
   (C:\Users\verilogsample>iverilog rtl/* -o sample.vvp)
   C:\Users\verilogsample>vvp sample.vvp
