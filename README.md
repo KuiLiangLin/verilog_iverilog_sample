@@ -1,7 +1,7 @@
 # iverilog_sample
 
-1. Download iverilog exe file:
-   http://bleyer.org/icarus/
+## 2.Download iverilog exe file:
+### http://bleyer.org/icarus/
    
 2. Install
 
