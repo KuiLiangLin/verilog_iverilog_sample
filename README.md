@@ -31,3 +31,6 @@
    C:\Users\verilogsample>vvp sample.vvp
    
    C:\Users\verilogsample>gtkwave sample.vcd
+
+5. Waveform
+   ![image](https://github.com/KuiLiangLin/verilog_iverilog_sample/blob/master/Waveform.GIF)
