@@ -26,7 +26,7 @@
 
    C:\Users\verilogsample>iverilog add.v test_bench.v -o sample.vvp
    
-   (C:\Users\verilogsample>iverilog rtl/* -o sample.vvp)
+   (C:\Users\verilogsample>iverilog -o sample.vvp rtl\*)
    
    C:\Users\verilogsample>vvp sample.vvp
    
