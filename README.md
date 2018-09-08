@@ -1,9 +1,7 @@
 # iverilog_sample
 
 1. Download iverilog exe file:
-
-   http://bleyer.org/icarus/
-   
+  
    <a href="http://bleyer.org/icarus/">http://bleyer.org/icarus/</a>
    
 2. Install
@@ -35,4 +33,5 @@
    C:\Users\verilogsample>gtkwave sample.vcd
 
 5. Waveform
-   ![image](https://github.com/KuiLiangLin/verilog_iverilog_sample/blob/master/Waveform.GIF)
+
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/verilog_iverilog_sample/master/Waveform.GIF" height="100%" width="100%">
