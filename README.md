@@ -4,6 +4,8 @@
 
    http://bleyer.org/icarus/
    
+   <a href="http://bleyer.org/icarus/">http://bleyer.org/icarus/</a>
+   
 2. Install
 
 3. File -> This PC -> Right Click (for Windows user)
