@@ -8,15 +8,16 @@
   </li>
   <li>Install
   </li>
-  <li>File -> This PC -> Right Click (for Windows user)
+  <li>Setup emvironment variable path
     <ul>
+      <li>File -> This PC -> Right Click (for Windows user)</li>	    
       <li>Properties</li>
       <li>Advanced system seetings</li>
       <li>Environment Variable</li>
       <li>System variable -> path -> Edit</li>
-	  <li>New -> C:\iverilog\bin</li>
-	  <li>New -> C:\iverilog\gtkwave\bin</li>
-	  <li>OK</li>
+      <li>New -> C:\iverilog\bin</li>
+      <li>New -> C:\iverilog\gtkwave\bin</li>
+      <li>OK</li>
     </ul>
   </li>
   <li>cmd window (for Windows user)
