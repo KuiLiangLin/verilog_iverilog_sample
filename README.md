@@ -1,4 +1,5 @@
 <h1 id="iverilog_sample" > iverilog_sample:</h1>
+<p> <em><a href="https://github.com/KuiLiangLin/verilog_iverilog_sample/">View iverilog sample on GitHub</a></em>. </p>
 <hr>
 <ul>
   <li>Download iverilog exe file:
@@ -36,5 +37,4 @@
 </ul>
 <hr>
 <p> END </p>
-<p> Codes are <em><a href="https://github.com/KuiLiangLin/verilog_iverilog_sample/">Here</a></em>. </p>
 <p> You can return <em><a href="https://kuilianglin.github.io/Welcome/">My Main Page</a></em>. </P>
