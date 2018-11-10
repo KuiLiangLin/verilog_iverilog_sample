@@ -37,5 +37,5 @@
 </ul>
 <hr>
 <p> END </p>
-<ul><li> Codes are <em><a href="https://github.com/KuiLiangLin/verilog_iverilog_sample/">Here</a></em>. </li></ul>
+<p> Codes are <em><a href="https://github.com/KuiLiangLin/verilog_iverilog_sample/">Here</a></em>. </p>
 <p> You can return <em><a href="https://kuilianglin.github.io/Welcome/">My Main Page</a></em>. </P>
