@@ -19,6 +19,8 @@
       <li>New -> C:\iverilog\bin</li>
       <li>New -> C:\iverilog\gtkwave\bin</li>
       <li>OK</li>
+	  <li>(set PATH=C:\iverilog\bin;%PATH%)</li>
+	  <li>(set PATH=C:\iverilog\gtkwave\bin;%PATH%)</li>
     </ul>
   </li>
   <li>cmd window (for Windows user)
